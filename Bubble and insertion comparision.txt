@@ -1,0 +1,10 @@
+﻿
+     Bubble Sort                               Insertion Sort      Selection Sort
+   ===================================================================================
+     1.Time Complexity -->  Equal                    Equal           Equal
+     2.Time complexity increases with increase in array size.
+     3.at int[] arr size 100 -->T.C is 0.35 milliseconds.
+     4.at int[] arr size 200 -->T.C is 0.58 milliseconds.
+     5.at int[] arr size 500 -->T.C is 1.23 milliseconds.
+     6. Bubble sort taks more swaps.             less swaps                  less swaps
+     
